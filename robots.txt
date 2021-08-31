@@ -1,0 +1,6 @@
+User-agent:*
+Disallow:/img
+Allow:/img/productos
+Disallow:/seccionAdministrativa
+Disallow:/procesarLogin.php
+Sitemap:/https://roloseqvic.github.io/comicApp/sitemap.xml
